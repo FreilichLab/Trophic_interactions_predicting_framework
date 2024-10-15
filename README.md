@@ -3,7 +3,7 @@
 # Trophic Interactions Predicting Framework (TIPF)
 
 TIPF is a constraint based modeling framework constructed out of three consecutive modules, aiming to elucidate the trophic interactions in native microbial communities. Here we provide the scripts for each module to reproduce the analyses as described in Ginatt, A et al. 2024; https://doi.org/10.7554/eLife.94558.3.
-The framework is comprised of three models:
+The framework is comprised of three modules:
 
 1. Microbial Community Succession Module (MCSM) 
 2. Network module (NETWORK)
