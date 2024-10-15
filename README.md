@@ -101,7 +101,8 @@ python PATHS.py
 
 ## References
 
-Ginatt, A et al. 2023.
+Ginatt, A et al. 2024.
+https://doi.org/10.7554/eLife.94558.3
 
 ## Funding
 
